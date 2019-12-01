@@ -1,6 +1,6 @@
 import glob, os
 
-f = open("shoebox.html","a+")
+f = open("export.html","a+")
 f.write("""<html>
 <head>
     <title>Python IMG Export</title>  
