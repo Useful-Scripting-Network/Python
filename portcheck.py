@@ -2,6 +2,7 @@
     Class to check if port connection is open or not. 
     
     Author: Clayton E.
+    http://usefulscripting.network/python/port-checking-in-python/
 '''
 import socket, time, logging, platform, getpass, os
 from colorama import init, Fore
